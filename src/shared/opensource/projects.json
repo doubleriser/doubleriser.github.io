@@ -165,6 +165,24 @@
           "iconifyClass": "simple-icons:docker"
         }
       ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "NFT marketplace",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://rize2day.com",
+      "description": "🚀 Multi chain NFT marketplace that works on Coreum, Ethereum, BSC, Polygon, Arbitrum, Cosmos, Hedera. Users can create and sell their images, audios, videos, and 3D files on this place. And they can chat each other at here.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
     }
     
   ]
